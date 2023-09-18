@@ -1,0 +1,16 @@
+Tugas” Dcoder
+	1.	tugas nama kelas
+
+https://code.dcoder.tech/files/code/64f49e80d6ec34800cfb7fc7/nama-kelas
+
+	2.	tugas volume nama
+
+https://code.dcoder.tech/files/code/64ec28bed6ec34800cf54fa7/volume_nama
+
+	3.	tugas tabung 
+
+https://code.dcoder.tech/files/code/64ec3a15d6ec34800cf55ff4/tabung
+
+	4.	tugas alas segitiga 
+
+https://code.dcoder.tech/files/code/6503d23918ae04b3f72a71e9/alass
