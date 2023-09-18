@@ -14,3 +14,15 @@ https://code.dcoder.tech/files/code/64ec3a15d6ec34800cf55ff4/tabung
 	4.	tugas alas segitiga 
 
 https://code.dcoder.tech/files/code/6503d23918ae04b3f72a71e9/alass
+
+	5.	tugas switch 
+
+https://code.dcoder.tech/files/code/6507dba0d6ec34800c0b1345/switch
+
+	6.	hello world 
+
+https://code.dcoder.tech/files/code/64e8263718ae04b3f7158ebd/helloworld
+
+https://code.dcoder.tech/files/code/6503d976d6ec34800c078b8e/nama-ifelse
+
+https://code.dcoder.tech/files/code/6503dd00d6ec34800c0794b4/nama-if-else
