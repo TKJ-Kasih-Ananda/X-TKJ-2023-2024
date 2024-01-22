@@ -11,12 +11,12 @@ int main(){
     cin>>N;
     sum=0;
     i=1;
-    do{ 
-    cout<<"the number of list ="<<sum<<endl;
+    do{
     i++;
     sum=sum+1;
     } 
     while(i<=N);
+    cout<<"the number of list ="<<sum<<endl;
     return 0;
     0;
     }
