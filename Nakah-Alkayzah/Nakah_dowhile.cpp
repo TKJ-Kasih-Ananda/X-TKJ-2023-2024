@@ -13,7 +13,7 @@ int main(){
     i=1;
     do{
     i++;
-    sum=sum+1;
+    sum=sum+i;
     } 
     while(i<=N);
     cout<<"the number of list ="<<sum<<endl;
