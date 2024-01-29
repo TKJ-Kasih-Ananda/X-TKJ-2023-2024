@@ -8,6 +8,6 @@ int main() {
     do {
         cout << "Nilai i = " << i << endl;
         i++;
-    } while (i <= 5);
+    } while (i <= 15);
     return 0;
 }
