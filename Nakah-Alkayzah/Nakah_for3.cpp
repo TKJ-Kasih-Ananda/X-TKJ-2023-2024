@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int i;
-   for(i=1; i<=5 ;i++){
+   for(i=1; i<=15 ;i++){
         cout << "Nilai i: " << i << endl;
         }
     return 0;
