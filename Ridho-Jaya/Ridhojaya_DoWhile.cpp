@@ -2,21 +2,17 @@
 using namespace std;
 
 int main() {
-    int N;
-    int i = 1;
-    // Menginisialisasi sum dengan 0
-    int sum = 0;
-    cout << "How many N do you want? ";
-    cin >> N;
-    // Melakukan pengulangan do-while
+    int num, i;
+    //Menampilkan pesan untuk meminta user memasukkan sebuah angka.
+    cout << "Enter a number: ";
+    cin >> num;
+    //Menginisialisasi variabel i dengan nilai 1.
+    i = 1;
     do {
-      // Menambahkan 1 pada sum
-        sum = sum + 1;
+      //Mencetak nilai i (urutan angka) diikuti dengan karakter baris baru.
+        cout << i << "\n";
+        //Meningkatkan nilai i setelah mencetak.
         i++;
-        // Melanjutkan iterasi selama i kurang dari atau sama dengan N
-    } while (i <= N);
-    // Menampilkan hasil
-    cout << "The number of list = " << sum << endl;
-     
+    } while (i <= num);
     return 0;
 }
